@@ -26,10 +26,10 @@ include("connection.php")
     <P>Select your doctor *
     <select name="doctor"  required>
         <option value="">--Select doctor--</option>
-        <option value="doc1">Dr. Ghosh</option>
-        <option value="doc2">Dr. Ghatak</option>
-        <option value="doc3">Dr. Barman</option>
-        <option value="doc4">Dr. Saha</option>
+        <option value="doc1">Dr. Malini Ghosh, Genenral Physician</option>
+        <option value="doc2">Dr. B K Saha, Cardiologist </option>
+        <option value="doc3">Dr. Dipti Barman, Dentist</option>
+        <option value="doc4">Dr. Nikhil Saha, Dermotologist</option>
     </select>
     <div class="book">
     <input type="submit" value="Book an appointment" id="button" name="submit">

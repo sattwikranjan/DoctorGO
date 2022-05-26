@@ -85,6 +85,18 @@ body{
     font-weight: 200;
     cursor: pointer;
 }
+a:link {
+   text-decoration: none;
+   }
+a:visited {
+   text-decoration: none;
+   }
+a:hover { 
+  text-decoration: none;
+ }
+a:active { 
+  text-decoration: none;
+ }
 .hero-button:hover {
     background-color: #cb376a;
     border: 1px solid #db7598;
